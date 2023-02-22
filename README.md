@@ -1,3 +1,7 @@
+
+
+
+
 News app created with the following features :-
 
 1. Splash Screen
@@ -5,3 +9,4 @@ News app created with the following features :-
 3. Page Transition
 4. Api call
 5. In app URL launcher
+
